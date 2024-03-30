@@ -9,6 +9,7 @@ import close from "./utils/close.svg";
 import php from "./tech/pl_sl/php.png";
 import python from "./tech/pl_sl/python.png";
 import java from "./tech/pl_sl/java.png";
+import golang from "./tech/pl_sl/golang.png";
 import html from "./tech/pl_sl/html.png";
 import css from "./tech/pl_sl/css.png";
 import javascript from "./tech/pl_sl/javascript.png";
@@ -37,6 +38,8 @@ import xampp from "./tech/dev_tools/xampp.png";
 import mysqlworkbench from "./tech/dev_tools/mysqlworkbench.png";
 import postman from "./tech/dev_tools/postman.png";
 import scenebuilder from "./tech/dev_tools/scenebuilder.png";
+import docker from "./tech/dev_tools/docker.png";
+import apacheairflow from "./tech/dev_tools/apacheairflow.png";
 
 import stampede from "./company/stampede.png";
 
@@ -57,6 +60,7 @@ export {
   php,
   python,
   java,
+  golang,
   html,
   css,
   javascript,
@@ -81,6 +85,8 @@ export {
   mysqlworkbench,
   postman,
   scenebuilder,
+  docker,
+  apacheairflow,
   stampede,
   malaysia,
   fanamylms,

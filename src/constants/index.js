@@ -5,6 +5,7 @@ import {
     php,
     python,
     java,
+    golang,
     html,
     css,
     javascript,
@@ -29,6 +30,8 @@ import {
     mysqlworkbench,
     postman,
     scenebuilder,
+    docker,
+    apacheairflow,
     stampede,
     malaysia,
     fanamylms,
@@ -135,6 +138,10 @@ export const technologies = [
                 name: "Laravel",
                 icon: laravel,
             },
+            {
+                name: "Golang",
+                icon: golang,
+            },
         ],
     },
     {
@@ -195,6 +202,14 @@ export const devTools = [
     {
         name: "SceneBuilder",
         icon: scenebuilder,
+    },
+    {
+        name: "Docker",
+        icon: docker,
+    },
+    {
+        name: "Apache Airflow",
+        icon: apacheairflow,
     },
 ];
 
