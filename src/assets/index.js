@@ -36,6 +36,7 @@ import sourcetree from "./tech/dev_tools/sourcetree.svg";
 import laragon from "./tech/dev_tools/laragon.png";
 import xampp from "./tech/dev_tools/xampp.png";
 import mysqlworkbench from "./tech/dev_tools/mysqlworkbench.png";
+import winscp from "./tech/dev_tools/winscp.png";
 import postman from "./tech/dev_tools/postman.png";
 import scenebuilder from "./tech/dev_tools/scenebuilder.png";
 import docker from "./tech/dev_tools/docker.png";
@@ -83,6 +84,7 @@ export {
   laragon,
   xampp,
   mysqlworkbench,
+  winscp,
   postman,
   scenebuilder,
   docker,

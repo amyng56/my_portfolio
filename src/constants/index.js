@@ -28,6 +28,7 @@ import {
     laragon,
     xampp,
     mysqlworkbench,
+    winscp,
     postman,
     scenebuilder,
     docker,
@@ -194,6 +195,10 @@ export const devTools = [
     {
         name: "MySQL Workbench",
         icon: mysqlworkbench,
+    },
+    {
+        name: "WinSCP",
+        icon: winscp,
     },
     {
         name: "Postman",
